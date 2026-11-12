@@ -114,6 +114,10 @@ A notes-focused project built to make learning resources easier to work with.
 
 **“With great code comes great responsibility.”**
 
-<sub>Thanks for stopping by · <img src="https://komarev.com/ghpvc/?username=VvkChoudhary04&style=flat-square&color=E62429&label=PROFILE+VIEWS" alt="Profile views" /></sub>
+<h3 align="center">Thanks for stopping by! 👋</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VvkChoudhary04&label=PROFILE+VIEWS&color=red&style=for-the-badge" />
+</p>
 
 </div>
