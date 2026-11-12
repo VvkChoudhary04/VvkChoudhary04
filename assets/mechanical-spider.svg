@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="300" viewBox="0 0 420 300" role="img" aria-labelledby="title desc">
+<title id="title">Mechanical spider emblem</title><desc id="desc">Original red and black robotic spider with angular armored legs and glowing red eyes.</desc>
+<defs><radialGradient id="core"><stop stop-color="#3b1118"/><stop offset="1" stop-color="#09090d"/></radialGradient><linearGradient id="leg" x2="1" y2="1"><stop stop-color="#e62429"/><stop offset="1" stop-color="#541019"/></linearGradient></defs>
+<g fill="none" stroke="url(#leg)" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+<path d="M171 116L116 82L70 36L31 44M157 143L95 139L48 176L19 166M164 171L112 207L79 258L39 266M249 116L304 82L350 36L389 44M263 143L325 139L372 176L401 166M256 171L308 207L341 258L381 266"/>
+</g>
+<g fill="#101116" stroke="#e62429" stroke-width="4"><path d="M170 96L210 69L250 96L270 157L242 206L178 206L150 157Z"/><path d="M182 90L210 53L238 90L226 116L194 116Z"/><path d="M176 137L198 125L204 148L181 157ZM244 137L222 125L216 148L239 157Z" fill="#e62429"/><path d="M198 169L210 178L222 169" fill="none" stroke-width="5"/></g>
+<g fill="#e62429"><circle cx="70" cy="36" r="6"/><circle cx="48" cy="176" r="6"/><circle cx="79" cy="258" r="6"/><circle cx="350" cy="36" r="6"/><circle cx="372" cy="176" r="6"/><circle cx="341" cy="258" r="6"/></g>
+<g fill="none" stroke="#e62429" stroke-opacity=".3"><circle cx="210" cy="145" r="112" stroke-dasharray="3 9"/><path d="M210 14V45M210 245V282M78 145H125M295 145H342"/></g>
+</svg>
